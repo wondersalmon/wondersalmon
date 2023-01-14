@@ -10,7 +10,7 @@ Useful things
 
 Beautiful things
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42E6B6&width=435&lines=%E2%9C%A8Magic+things%E2%9C%A8)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42E6B6&size=16&width=435&lines=%E2%9C%A8Magic+things%E2%9C%A8)
 
 ### 🛠 My tech stak:
 
